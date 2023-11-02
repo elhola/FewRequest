@@ -1,0 +1,1 @@
+DELETE FROM employees WHERE dept_id = 90;
